@@ -86,10 +86,11 @@ line-follower/
 
 | Role | Name |
 |------|------|
-| Cap  | Hariharan V T |
-| VC   | Divya |
-| TM   | Ponmudi M R |
-| Sat  | Hindula |
+| PCB  | Denanath S |
+| Coding and Tuning   | Dinesh P |
+| Assembly   | Ponmudi M R |
+| Assembly   | Hariharan V T |
+| Design  | Hindula |
 
 **Group No.** 100234
 
