@@ -7,8 +7,8 @@
 
 // ---------------- MOTOR PINS ----------------
 #define ENA PA8
-#define IN1 PB4
-#define IN2 PB3
+#define IN1 PB0
+#define IN2 PB1
 
 #define ENB PA9
 #define IN3 PB5
@@ -32,6 +32,9 @@ void setup() {
   pinMode(ENB, OUTPUT);
   pinMode(IN3, OUTPUT);
   pinMode(IN4, OUTPUT);
+
+  pinMode(PB12, OUPUT);
+  digitalwrite(PB12, HIGH);
 }
 
 void loop() {
